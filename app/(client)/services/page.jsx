@@ -3,3 +3,6 @@ export default function Services() {
     <div className="text-center my-3 text-3xl underline">Services Page</div>
   );
 }
+export const metadata = {
+   title : "Services"
+ }

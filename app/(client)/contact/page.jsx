@@ -4,3 +4,8 @@ export default function Contact() {
     );
     
 }
+
+
+export const metadata = {
+  title: "Contact"
+};
